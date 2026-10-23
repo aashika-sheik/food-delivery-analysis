@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.24
+plotly>=5.20
+
+# Optional: only for the "push tables to MySQL" button in the SQL Explorer
+# sqlalchemy>=2.0
+# pymysql>=1.1
